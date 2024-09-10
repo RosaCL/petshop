@@ -1,0 +1,28 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    text-align: center;
+    width: 420px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+     
+
+}
+img.container {
+    width: 200px;
+}
+
+    
+}
+h1 {font-weight: bold;
+    text-align: center;
+
+}
+p {
+    text-align: justify;
+}
+.icon {
+    width: 20px;
+}
